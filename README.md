@@ -22,7 +22,7 @@ can be used to analyze arbitrage opportunities from 2018 january to march.
 **plotted the two graphs from coinbase and bitstamp against one another to visualize spread**
 ![Spread visualization](https://github.com/MxP05/Challenge3/blob/main/Starter_Code/step3.jpg?raw=true)
 
-**Calculated the arbitrage spread**
+**Calculated profit from arbitrage spread**
 ![graphed spread](https://github.com/MxP05/Challenge3/blob/main/Starter_Code/step4.jpg?raw=true)
 
 **Cumulative profit graphed**

@@ -73,5 +73,3 @@ Calculated the arbitrage profits.
 ### Analysis findings
 
  After reviewing, and comparing the profit information over different periods of time, the obvious trend which i observed was that as time and trading progressed the profitable arbitrage moments declined, the month of janauary sees the most arbitrage opportunities, and the month of march the least.
-
- After reviewing, and comparing the profit information over different periods of time, the obvious trend which i observed was that as time and trading progressed the profitable arbitrage moments declined, the month of janauary sees the most arbitrage opportunities, and the month of march the least.
